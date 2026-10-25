@@ -1,27 +1,44 @@
-# Sanika Salunkhe — Portfolio
+# Hi, I'm Sanika Salunkhe 👋
 
-Hi! I'm Sanika, a third-year BSc Computer Science student at S.K. College of Science and Commerce, Navi Mumbai, India.
+🎓 Third-year BSc Computer Science student at S.K. College of Science and Commerce, Navi Mumbai, India.
 
-I'm currently learning web development and Python, and I'm looking for internship opportunities where I can apply my knowledge and gain practical experience.
+💻 Learning web development and Python  
+🌱 Building projects to improve my programming skills  
+🎯 Looking for internship opportunities in software development and web development
 
-## Technical Skills
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Python (Basics)
+🌐 **[Visit My Portfolio](https://sanika8099.github.io/portfolio/)**  
+💼 **[View My GitHub Repositories](https://github.com/Sanika8099)**
 
-## Projects
-### Personal Portfolio Website
-A portfolio website created using HTML and CSS to practise web development and showcase my work.
+## 🛠️ Technical Skills
 
-### Cyber Awareness in Rural Areas
-An academic group project focused on cybercrime awareness, reporting guidance, emergency helplines, and government resources. The project uses Python, Flask, and SQLite.
+- **Web Development:** HTML, CSS, JavaScript, Bootstrap
+- **Programming:** Python (Basics)
+- **Currently Exploring:** Flask and SQLite
 
-## Education
-**BSc Computer Science**  
-S.K. College of Science and Commerce  
+## 🚀 Projects
+
+### 1. Personal Portfolio Website
+A personal website created to practise web development and showcase my skills, projects, and internship goals.
+
+**Technologies:** HTML, CSS, Bootstrap
+
+### 2. Cyber Awareness in Rural Areas
+An academic group project focused on cybercrime awareness, reporting guidance, emergency helplines, and government resources.
+
+**Technologies:** HTML, CSS, JavaScript, Python Flask, SQLite
+
+*This is a group project. My individual contribution is described separately where relevant.*
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science (BSc CS)**  
+S.K. College of Science and Commerce, Navi Mumbai  
 Expected Graduation: 2027
 
-## Career Goal
-To gain practical experience through an internship and continue developing my programming and web development skills.
+## 🎯 Career Goal
+
+To gain practical experience through an internship, contribute to real-world projects, and continue developing my programming and web development skills.
+
+---
+
+📫 **Let's connect!** I'm open to learning opportunities and internships.
